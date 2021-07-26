@@ -1,0 +1,5 @@
+C:\Repos\Exacel\Exacel\obj\Debug\net5.0\Exacel.csproj.AssemblyReference.cache
+C:\Repos\Exacel\Exacel\obj\Debug\net5.0\Exacel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Exacel\Exacel\obj\Debug\net5.0\Exacel.AssemblyInfoInputs.cache
+C:\Repos\Exacel\Exacel\obj\Debug\net5.0\Exacel.AssemblyInfo.cs
+C:\Repos\Exacel\Exacel\obj\Debug\net5.0\Exacel.csproj.CoreCompileInputs.cache

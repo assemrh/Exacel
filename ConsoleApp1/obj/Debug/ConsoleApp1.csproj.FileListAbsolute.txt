@@ -1,0 +1,7 @@
+C:\Repos\Exacel\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Repos\Exacel\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Repos\Exacel\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Repos\Exacel\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Repos\Exacel\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Repos\Exacel\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Repos\Exacel\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
